@@ -30,11 +30,13 @@ How to add game to engine:
   
 Games support (Поддержка игр)
 
-NFS 1 "nfs1" (Tracks)\
-NFS 2 "nfs2" (Tracks, Cars)\
-NFS 3 "nfs3" (Tracks, Cars)\
-NFS 4 "nfs4" (Tracks, Cars)\
-Carmageddon 1 "carma1" (Tracks, Cars)
+|Game|ID|Tracks|Cars|
+|----|--|------|----|
+|NFS 1|nfs1|Almost done| |
+|NFS 2|nfs2|Almost done|Almost done|
+|NFS 3|nfs3|Almost done|Almost done|
+|NFS 4|nfs4|Almost done|Almost done|
+|Carmageddon 1|carma1|In progress|Almost done|
 
 Examples of games.ini content (Примеры содержимого games.ini)\
 \

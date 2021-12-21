@@ -35,7 +35,7 @@ NFS 2 "nfs2" (Tracks, Cars)\
 NFS 3 "nfs3" (Tracks, Cars)\
 NFS 4 "nfs4" (Tracks, Cars)\
 Carmageddon 1 "carma1" (Tracks, Cars)\
-Carmageddon 2 "carma2" (Tracks, Cars)\
+Carmageddon 2 "carma2" (Tracks, Cars)
 
 Examples of games.ini content (Примеры содержимого games.ini)\
 \

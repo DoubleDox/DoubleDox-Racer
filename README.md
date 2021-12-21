@@ -30,13 +30,18 @@ How to add game to engine:
   
 Games support (Поддержка игр)
 
-|Game|ID|Tracks|Cars|
-|----|--|------|----|
-|NFS 1|nfs1|Almost done| |
-|NFS 2|nfs2|Almost done|Almost done|
-|NFS 3|nfs3|Almost done|Almost done|
-|NFS 4|nfs4|Almost done|Almost done|
-|Carmageddon 1|carma1|In progress|Almost done|
+|Game|ID|Tracks|Cars|Comments|
+|----|--|------|----|--------|
+|NFS 1|nfs1|Almost done| | |
+|NFS 2|nfs2|Almost done|Almost done||
+|NFS 3|nfs3|Almost done|Almost done||
+|NFS 4|nfs4|Almost done|Almost done||
+|Carmageddon 1|carma1|In progress|Almost done|!Decryption needed!|
+
+Initially carmageddon 1 resources are encrypted (And cannot be parsed by engine). To decrypt files:
+- Run the Carmageddon 1 game
+- Type IWANTTOFIDDLE (case-sensitive) at the car selection screen. 
+- Close the game. Now the external data files, which are in text format, will be decrypted to allow parsing.
 
 Examples of games.ini content (Примеры содержимого games.ini)\
 \

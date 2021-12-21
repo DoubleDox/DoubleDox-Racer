@@ -39,9 +39,14 @@ Carmageddon 2 "carma2" (Tracks, Cars)
 
 Examples of games.ini content (Примеры содержимого games.ini)
 
+
 carma1=D:\Games\SteamLibrary\steamapps\common\Carmageddon1\CARMA\DATA
+
 carma2=D:\Games\SteamLibrary\steamapps\common\Carmageddon2
+
 nfs1=D:\Games\NFS\nfs
+
 nfs2=D:\Games\NFS\nfs2se
+
 nfs5=D:\Games\NFS\nfs5
   

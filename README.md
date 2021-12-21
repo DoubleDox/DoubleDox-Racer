@@ -43,5 +43,5 @@ carma1=D:\Games\SteamLibrary\steamapps\common\Carmageddon1\CARMA\DATA\
 carma2=D:\Games\SteamLibrary\steamapps\common\Carmageddon2\
 nfs1=D:\Games\NFS\nfs\
 nfs2=D:\Games\NFS\nfs2se\
-nfs5=D:\Games\NFS\nfs5\
+nfs5=D:\Games\NFS\nfs5
   

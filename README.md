@@ -37,6 +37,7 @@ Games support (Поддержка игр)
 |NFS 3|nfs3|Almost done|Almost done||
 |NFS 4|nfs4|Almost done|Almost done||
 |Carmageddon 1|carma1|In progress|Almost done|!Decryption needed!|
+|Carmageddon 2|carma2| |In progress||
 
 Initially carmageddon 1 resources are encrypted (And cannot be parsed by engine). To decrypt files:
 - Run the Carmageddon 1 game

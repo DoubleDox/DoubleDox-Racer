@@ -47,7 +47,7 @@ Initially carmageddon 1 resources are encrypted (And cannot be parsed by engine)
 
 Examples of games.ini content (Примеры содержимого games.ini)\
 \
-carma1=D:\Games\SteamLibrary\steamapps\common\Carmageddon1\CARMA\DATA\
+carma1=D:\Games\SteamLibrary\steamapps\common\Carmageddon1\
 carma2=D:\Games\SteamLibrary\steamapps\common\Carmageddon2\
 nfs1=D:\Games\NFS\nfs\
 nfs2=D:\Games\NFS\nfs2se

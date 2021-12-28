@@ -36,6 +36,7 @@ Games support (Поддержка игр)
 |NFS 2|nfs2|Almost done|Almost done||
 |NFS 3|nfs3|Almost done|Almost done||
 |NFS 4|nfs4|Almost done|Almost done||
+|NFS 5|nfs5|In progress|In progress||
 |Carmageddon 1|carma1|In progress|Almost done|!Decryption needed!|
 |Carmageddon 2|carma2| |In progress||
 

@@ -8,9 +8,9 @@ Everything is in development state and can contain bugs
 How to add game to engine:
 - Ensure that DD Racer is not running
 - Open DD Racer root folder
-- Open "Resources" folder (or create and open, if not exists)
+- Open "Content" folder (or create and open, if not exists)
 - Open "games.ini" file (or create and open, if not exists)
-- Add line in format <KEY>=<PATH>, where KEY is game id (see at the bottom of this doc), and PATH is resources location
+- Add line in format <KEY>=<PATH>, where KEY is game id (see at the bottom of this doc), and PATH is game resources location
 - Save and close file
 - Run DD Racer
 
@@ -22,7 +22,7 @@ How to add game to engine:
 Как добавить игру в движок:
 - Убедитесь, что DD Racer не запущен
 - Откройте корневую папку DD Racer
-- Откройте папку "Resources" (или создайте и откройте, если не существует)
+- Откройте папку "Content" (или создайте и откройте, если не существует)
 - Откройте файл "games.ini" (или создайте и откройте, если не существует)
 - Добавьте строку в формате <KEY>=<PATH>, где KEY это идентификатор игры (см. в конце), и PATH это путь к ресурсам игры
 - Сохраните и закройте файл
